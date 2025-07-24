@@ -11,3 +11,7 @@ A base de dados foi retirado do Kaggle (https://www.kaggle.com/datasets/alaminbh
 * pituitary.
 
 Foram experimentados variar a quantidade de n_features e a quantidade de blocos, além de propor um modelo próprio.
+
+Matriz de confusão - Modelo de Referência
+
+<img width="430" height="288" alt="image" src="https://github.com/user-attachments/assets/989984d9-a235-49de-8a86-4a966144f3bf" />
