@@ -1,2 +1,15 @@
 # Trabalho_CNN
-Trabalho da disciplina de Aprendizado de Máquina
+Segundo trabalho da disciplina de Aprendizado de Máquinas 2025.1
+
+Autor: Nickson Saymon de Oliveira Lopes
+
+A base de dados foi retirado do Kaggle (https://www.kaggle.com/datasets/alaminbhuyan/mri-image-data) consistindo em um conjunto de imagens CT-Scan do cerebro. 
+O problema é realizar o diagnóstico das CT-scan, onde existem 4 classes possíveis:
+
+This dataset contains 7023 images of human brain MRI images which are classified into 4 classes: 
+* Glioma; 
+* Meningioma;
+* Sem tumor;
+* pituitary.
+
+Foram experimentados variar a quantidade de n_features e a quantidade de blocos, além de propor um modelo próprio.
