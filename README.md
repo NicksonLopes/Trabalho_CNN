@@ -1,4 +1,4 @@
-# Trabalho_CNN
+# Trabalho CNN
 Segundo trabalho da disciplina de Aprendizado de Máquinas 2025.1
 
 Autor: Nickson Saymon de Oliveira Lopes
