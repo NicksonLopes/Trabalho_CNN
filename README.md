@@ -8,6 +8,6 @@ A base de dados foi retirada do Kaggle (https://www.kaggle.com/datasets/alaminbh
 * Glioma; 
 * Meningioma;
 * Sem tumor;
-* pituitary.
+* Pituitary.
 
 Foram experimentados variar a quantidade de n_features e a quantidade de blocos, além de propor um modelo próprio, conforme solicitado. 
