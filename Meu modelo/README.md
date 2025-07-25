@@ -1,5 +1,6 @@
 Conforme solicitado, aqui foi proposto o meu modelo. Ele consiste em um ajuste do modelo original, onde:
 
+* inicialmente, as classes foram rebalanceada limitando a quantidade de imagens da etapa de treino pela classe minoritária;
 * foi acrescentada mais uma camada de convolução a entrada (totalizando 3 camadas);
 * foi adicionado camadas de batch normalization entre as camadas anteriores;
 * a quantidade de mini-batch foram auteradas para 30;
