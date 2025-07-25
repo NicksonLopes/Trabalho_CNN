@@ -1,0 +1,1 @@
+Para este caso, foi estudado a influência da quantidade de features no modelo. Foram testados valore igual a 10, 25 e 50, onde esta auteração resulta no melhoramento do modelo. Em contra-partida o tempo de treinamento é, logicamente alongado.    
