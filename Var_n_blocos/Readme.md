@@ -1,1 +1,1 @@
-
+Foram variados a quantidade de camadas convoluncionadas em cada modelo. Para o primeiro caso, foram empregados 3 camadas e em seguida 4 camadas. É possível verificar que ao aumentar a quantidade de camadas, pelo menos de 2 para 4, não há uma melhora tão sensível. A acurácia sai de aproximadamente 68% para 73% respectivamente.
